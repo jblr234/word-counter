@@ -1,0 +1,10 @@
+cat > sample.txt << 'EOF'
+Node.js is a JavaScript runtime built on Chrome's V8 engine.
+It lets you run JavaScript outside of the browser.
+
+Many developers use Node.js to build web servers, command line tools,
+and automation scripts. It is fast and has a huge ecosystem.
+
+The npm registry has thousands of packages that you can install
+with a single command. This makes development much faster.
+EOF
